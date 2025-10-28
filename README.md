@@ -1,2 +1,3 @@
-# Mini_Library_System
-A simple Python Mini Library Management System built by Ramatu I. Kargbo
+Ramatu I Kargbo
+BIT1103 Sem 3
+905005380
